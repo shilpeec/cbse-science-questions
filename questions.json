@@ -1,0 +1,72 @@
+{
+  "chemical_reactions": [
+    {
+      "text": "Define the term 'corrosion'. List two methods to prevent corrosion of metals.",
+      "year": "2020",
+      "marks": 2
+    },
+    {
+      "text": "Write a balanced chemical equation for the reaction between sodium carbonate and hydrochloric acid.",
+      "year": "2021",
+      "marks": 1
+    },
+    {
+      "text": "What happens when zinc granules are added to dilute sulphuric acid? Write the chemical equation.",
+      "year": "2022",
+      "marks": 2
+    }
+  ],
+  "electricity": [
+    {
+      "text": "State Ohm's law. Write its mathematical expression.",
+      "year": "2021",
+      "marks": 2
+    },
+     {
+      "text": "Calculate the current flowing through a resistor of 5Ω when potential difference of 10V is applied across it.",
+      "year": "2022",
+      "marks": 3
+    },
+    {
+      "text": "Define electric power. Express it in terms of voltage and current.",
+      "year": "2020",
+      "marks": 2
+    }
+  ],
+  "light": [
+    {
+      "text": "Define the term 'refractive index'. What is its unit?",
+      "year": "2021",
+      "marks": 2
+    },
+    {
+      "text": "Draw a ray diagram to show the formation of image when an object is placed between optical center and focus of a convex lens.",
+      "year": "2022",
+      "marks": 3
+    }
+  ],
+  "life_processes": [
+    {
+      "text": "Explain the process of photosynthesis with a balanced chemical equation.",
+      "year": "2020",
+      "marks": 3
+    },
+    {
+      "text": "Differentiate between aerobic and anaerobic respiration.",
+      "year": "2021",
+      "marks": 2
+       }
+  ],
+  "heredity": [
+    {
+      "text": "What are dominant and recessive traits? Give an example.",
+      "year": "2022",
+      "marks": 2
+    },
+    {
+      "text": "State Mendel's law of segregation.",
+      "year": "2021",
+      "marks": 2
+    }
+  ]
+}
